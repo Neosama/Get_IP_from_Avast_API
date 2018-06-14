@@ -1,2 +1,10 @@
 # Get_IP_from_Avast_API
-Get IP address and more from Avast API (ip-info.ff.avast.com)
+
+INFO API
+URL : "ip-info.ff.avast.com"
+USER-AGENT : "Avast Emergency Update Agent"
+PATH : "/v2/info"
+
+Get IP address and more from Avast API.
+Use rapidjson for parse result.
+
